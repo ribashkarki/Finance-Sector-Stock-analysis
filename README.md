@@ -14,3 +14,11 @@ In this project I analyzed 6 big banks Stock in US. The banks are as follow:
 6. Wells Fargo (WFC)
 
 
+Steps Involved:
+1. Getting the Data from the web
+2. Cleaning the Data
+3. Using Pandas to manipulate data
+4. Exploratory data analysis
+5. Using matplotlib and Seaborn to visualize the data
+6. Using Plotly and Cufflinks to create interactive and visually appealing plots
+
